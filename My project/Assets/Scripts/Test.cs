@@ -39,6 +39,7 @@ public class Test : MonoBehaviour
     public void MyFunction()
     {
         Debug.Log("123");
+        Debug.Log("grasp");
     }
 
     #endregion
